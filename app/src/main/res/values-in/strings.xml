@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FundamentalSub2</string>
+    <string name="search_hint">Cari</string>
+    <string name="count">count</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="company">Perusahaan</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="username">username</string>
+    <string name="repository">Repositori</string>
+    <string name="location">Lokasi</string>
+    <string name="subtitle">Halo Developer!</string>
+    <string name="title">GitHub Users</string>
+</resources>
